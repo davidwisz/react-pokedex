@@ -1,0 +1,13 @@
+.Pokecard {
+  display: inline-block;
+  background-color: #ccc;
+  border-radius: 10px;
+  margin: 10px;
+  width: 160px;
+  padding: 15px;
+}
+.Pokecard h2 {
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+}
